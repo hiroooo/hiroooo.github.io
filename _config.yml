@@ -1,0 +1,5 @@
+title: hiroooo apps
+description: 個人開発アプリ群のポータル
+theme: jekyll-theme-minimal
+include:
+  - app-ads.txt
